@@ -7,5 +7,5 @@
 - 💬 Ask me about things with discord bots and hosting!
 - 📫 How to reach me: Dm me on discord(pro_gamer007#7817)
 - ⚡ Fun fact: im bored
-[Here are my github stats!](https://github-readme-stats.vercel.app/api?username=pro-gamer007&show_icons=true&theme=radical)
+[![Here are my github stats!](https://github-readme-stats.vercel.app/api?username=pro-gamer007&show_icons=true&theme=radical)]
 
