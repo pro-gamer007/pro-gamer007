@@ -8,11 +8,3 @@
 - 📫 How to reach me: Dm me on discord(pro_gamer007#7817)
 - ⚡ Fun fact: im bored
 
-
-[![Here are my github stats!](https://github-readme-stats.vercel.app/api?username=pro-gamer007&show_icons=true&theme=radical)]
-
-[![More detailed stats!](https://metrics.lecoq.io/pro-gamer007?base.repositories=0&languages=1&isocalendar=1&followup=1)]
-
-[<img src="https://now-playing-jeff.vercel.app/api/spotify-playing" alt="jeff Spotify Playing" width="350" />]https://open.spotify.com/user/av2wfb5mc6dlv8vwfmni2q3kp)
-
-
