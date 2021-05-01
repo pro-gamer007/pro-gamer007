@@ -6,6 +6,5 @@
 - 👯 I’m looking to collaborate on things like discord bots, websites, electron based apps, and more!
 - 💬 You can ask me about my projects, discord bots, hosting your projects, and much more!
 - 📫 You can reach me on [Discord](https://discord.com/users/555064829946232832)!
-- ⚡ Fun fact: Im a teen who tries to learn about programing by making simple projects!
 
 <img src="https://github-readme-stats.vercel.app/api?username=pro-gamer007&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight&custom_title=My Github Stats"/>
